@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Techs experience</h2>
+<h2 align="left">Techs experience 💻</h2>
 
 ###
 
