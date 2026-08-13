@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Guilherme Savio, from Americana/SP, Brazil</p>
+<p align="center">Desenvolvedor Full Stack · TypeScript, Node.js, React & React Native · Python/FastAPI · Americana, SP</p>
 
 ###
 
