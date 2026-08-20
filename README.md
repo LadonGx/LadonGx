@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Full+Stack+Developer;React+Native+%7C+NestJS+%7C+TypeScript+%7C+Python;Building+real+products+in+production+%F0%9F%9A%80)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Full+Stack+Developer;React+Native+%7C+NestJS+%7C+TypeScript+%7C+Python)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-b-savio)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bortolozogui@gmail.com)
@@ -23,11 +23,9 @@ status: Open to new opportunities
 
 I'm a **Full Stack Developer** with hands-on production experience building **mobile apps published on Play Store & Apple Store**, scalable APIs with **NestJS + PostgreSQL**, and **white-label architectures** serving multiple brands from a single codebase.
 
-At my previous role, I led an **AI model benchmark** that **cut the team's tooling cost from $1,000 to $100/month** — the proposal was approved and adopted company-wide.
-
 <div align="center">
 
-  [![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-00C853?style=for-the-badge&labelColor=00C853)](#-lets-connect)
+  [![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-00C853?style=for-the-badge&labelColor=00C853)](https://linkedin.com/in/guilherme-b-savio)
 
 </div>
 
@@ -50,7 +48,6 @@ At my previous role, I led an **AI model benchmark** that **cut the team's tooli
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Database & ORM**
 
@@ -63,7 +60,6 @@ At my previous role, I led an **AI model benchmark** that **cut the team's tooli
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![NX](https://img.shields.io/badge/NX-143055?style=for-the-badge&logo=nx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -118,21 +114,8 @@ At my previous role, I led an **AI model benchmark** that **cut the team's tooli
 
 | Role | Company | Period | Key Achievement |
 |------|---------|--------|------------------|
-| **Full Stack Developer** | Globals | Jul 2025 – Apr 2026 | Built 2 React Native apps (Play Store & Apple Store), architected backend with NestJS + PostgreSQL, led AI benchmark saving 90% in costs |
+| **Full Stack Developer** | Globals | Jul 2025 – Apr 2026 | Built 2 React Native apps (Play Store & Apple Store), architected backend with NestJS + PostgreSQL, implemented white-label architecture |
 | **IT Intern** | Prefeitura de Americana | May 2023 – Feb 2025 | Technical support, hardware maintenance, and process automation |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LadonGx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadonGx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LadonGx&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
 
 ---
 
