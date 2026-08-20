@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Full+Stack+Developer;React+Native+%7C+NestJS+%7C+TypeScript+%7C+Python)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Full+Stack+Developer;React+Native+%7C+NestJS+%7C+TypeScript+%7C+Python)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-b-savio)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bortolozogui@gmail.com)
@@ -107,26 +107,3 @@ I'm a **Full Stack Developer** with hands-on production experience building **mo
 </table>
 
 > 🔨 **More projects coming soon** — currently building a Job Tracker (Kanban-style) and other tools to solve real problems.
-
----
-
-## 💼 Professional Highlights
-
-| Role | Company | Period | Key Achievement |
-|------|---------|--------|------------------|
-| **Full Stack Developer** | Globals | Jul 2025 – Apr 2026 | Built 2 React Native apps (Play Store & Apple Store), architected backend with NestJS + PostgreSQL, implemented white-label architecture |
-| **IT Intern** | Prefeitura de Americana | May 2023 – Feb 2025 | Technical support, hardware maintenance, and process automation |
-
----
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=LadonGx&color=58a6ff&style=flat-square&label=Profile+Views" />
-
-  <br/><br/>
-
-  **💬 I'm actively looking for Full Stack or Mobile Developer opportunities.**
-  <br/>
-  **Let's connect — reach out via [LinkedIn](https://linkedin.com/in/guilherme-b-savio) or [email](mailto:bortolozogui@gmail.com)!**
-
-</div>
